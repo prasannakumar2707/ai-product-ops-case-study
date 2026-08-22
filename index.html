@@ -201,3 +201,8 @@
               rows.sort((a, b) => a.cells[i].innerText.localeCompare(b.cells[i].innerText));
               rows.forEach(row => table.appendChild(row));
             });
+          });
+        });
+
+        // Download CSV
+        document.getElementById('download').addEventListener('click', () => {
