@@ -1,0 +1,101 @@
+App,Category,Website
+Salesforce,CRM,salesforce.com
+HubSpot,CRM,hubspot.com
+Pipedrive,CRM,pipedrive.com
+Attio,CRM,attio.com
+Twenty,CRM,twenty.com
+Podio,CRM,podio.com
+Zoho CRM,CRM,zoho.com/crm
+Close,CRM,close.com
+Copper,CRM,copper.com
+DealCloud,CRM,api.docs.dealcloud.com
+Zendesk,Support,zendesk.com
+Intercom,Support,intercom.com
+Freshdesk,Support,freshdesk.com
+Front,Support,front.com
+Pylon,Support,usepylon.com
+LiveAgent,Support,liveagent.com
+Plain,Support,plain.com
+Help Scout,Support,helpscout.com
+Gorgias,Support,gorgias.com
+Gladly,Support,gladly.com
+Slack,Communications,slack.com
+Twilio,Communications,twilio.com
+Zoho Cliq,Communications,zoho.com/cliq
+Lark,Communications,open.larksuite.com
+Pumble,Communications,pumble.com
+Discord,Communications,discord.com
+Telegram,Communications,core.telegram.org
+WhatsApp Business,Communications,developers.facebook.com/docs/whatsapp
+Aircall,Communications,aircall.io
+Vonage,Communications,developer.vonage.com
+Google Ads,Marketing,developers.google.com/google-ads
+Meta Ads,Marketing,developers.facebook.com/docs/marketing-apis
+LinkedIn Ads,Marketing,learn.microsoft.com/linkedin/marketing
+GoHighLevel,Marketing,highlevel.stoplight.io
+Mailchimp,Marketing,mailchimp.com/developer
+Klaviyo,Marketing,developers.klaviyo.com
+systeme.io,Marketing,systeme.io
+Pinterest,Marketing,developers.pinterest.com
+Threads,Marketing,developers.facebook.com/docs/threads
+SendGrid,Marketing,sendgrid.com
+Shopify,Ecommerce,shopify.dev
+WooCommerce,Ecommerce,woocommerce.com/document/woocommerce-rest-api
+BigCommerce,Ecommerce,developer.bigcommerce.com
+Salesforce Commerce Cloud,Ecommerce,developer.salesforce.com/docs/commerce
+Magento,Ecommerce,developer.adobe.com/commerce
+Squarespace,Ecommerce,developers.squarespace.com
+Ecwid,Ecommerce,api-docs.ecwid.com
+Gumroad,Ecommerce,gumroad.com/api
+Amazon Selling Partner,Ecommerce,developer-docs.amazon.com/sp-api
+fanbasis,Ecommerce,fanbasis.com
+DataForSEO,Data,docs.dataforseo.com
+SE Ranking,Data,seranking.com/api
+Ahrefs,Data,ahrefs.com/api
+MrScraper,Data,docs.mrscraper.com
+Apify,Data,docs.apify.com
+Firecrawl,Data,firecrawl.dev
+Bright Data,Data,brightdata.com
+Sherlock,Data,github.com/sherlock-project/sherlock
+Waterfall.io,Data,waterfall.io
+Clay,Data,clay.com
+GitHub,Developer,docs.github.com/rest
+Vercel,Developer,vercel.com/docs/rest-api
+Netlify,Developer,docs.netlify.com/api
+Cloudflare,Developer,developers.cloudflare.com/api
+Supabase,Developer,supabase.com/docs
+Neo4j,Developer,neo4j.com/docs/api
+Snowflake,Developer,docs.snowflake.com
+MongoDB Atlas,Developer,mongodb.com/docs/atlas/api
+Datadog,Developer,docs.datadoghq.com/api
+Sentry,Developer,docs.sentry.io/api
+Notion,Productivity,developers.notion.com
+Airtable,Productivity,airtable.com/developers
+Linear,Productivity,developers.linear.app
+Jira,Productivity,developer.atlassian.com
+Asana,Productivity,developers.asana.com
+Monday.com,Productivity,developer.monday.com
+ClickUp,Productivity,clickup.com/api
+Coda,Productivity,coda.io/developers
+Smartsheet,Productivity,smartsheet.com/developers
+Harvest,Productivity,help.getharvest.com/api-v2
+Stripe,Finance,stripe.com/docs/api
+Plaid,Finance,plaid.com/docs
+Binance,Finance,binance-docs.github.io
+Paygent Connect,Finance,paygent.com
+iPayX,Finance,ipayx.ai/docs
+QuickBooks,Finance,developer.intuit.com
+Xero,Finance,developer.xero.com
+Brex,Finance,developer.brex.com
+Ramp,Finance,docs.ramp.com
+PitchBook,Finance,pitchbook.com
+NotebookLM,AI,cloud.google.com/gemini
+Otter AI,AI,help.otter.ai
+Fathom,AI,fathom.video
+Consensus,AI,consensus.app
+Reducto,AI,reducto.ai
+Devin,AI,docs.devin.ai
+higgsfield,AI,higgsfield.ai/cli
+Mermaid CLI,AI,github.com/mermaid-js/mermaid-cli
+YouTube Transcript,AI,transcriptapi.com
+Grain,AI,grain.com
