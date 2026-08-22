@@ -172,7 +172,11 @@
               <tr><th>Auth method</th><td>${app.Result["Auth method"]}</td></tr>
               <tr><th>Self-serve vs gated</th><td>${app.Result["Self-serve vs gated"]}</td></tr>
               <tr><th>API surface</th><td>${app.Result["API surface"]}</td></tr>
-              <tr><th>Buildability verdict</th><td class="${app.Result["Buildability verdict"].includes("Feasible") ? "feasible" : "not-feasible"}">${app.Result["Buildability verdict"]}</td></tr>
+              <tr><th>Buildability verdict</th>
+                  <td class="${app.Result["Buildability verdict"].includes("Feasible") ? "feasible" : "not-feasible"}">
+                    ${app.Result["Buildability verdict"]}
+                  </td>
+              </tr>
               <tr><th>Evidence</th><td><a href="${app.Result["Evidence"]}" target="_blank">${app.Result["Evidence"]}</a></td></tr>
             </table>
           `;
@@ -197,8 +201,3 @@
               rows.sort((a, b) => a.cells[i].innerText.localeCompare(b.cells[i].innerText));
               rows.forEach(row => table.appendChild(row));
             });
-          });
-        });
-
-        // Download CSV
-        document.getElementById('download').addEventListener('click', () => {
