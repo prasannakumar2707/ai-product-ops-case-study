@@ -2,1201 +2,1201 @@
   {
     "App": "Salesforce",
     "Category": "CRM",
-    "Website": "salesforce.com",
+    "Website": "https://salesforce.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "salesforce.com/docs"
+      "Evidence": "https://salesforce.com/docs"
     }
   },
   {
     "App": "HubSpot",
     "Category": "CRM",
-    "Website": "hubspot.com",
+    "Website": "https://hubspot.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "hubspot.com/docs"
+      "Evidence": "https://hubspot.com/docs"
     }
   },
   {
     "App": "Pipedrive",
     "Category": "CRM",
-    "Website": "pipedrive.com",
+    "Website": "https://pipedrive.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "pipedrive.com/docs"
+      "Evidence": "https://pipedrive.com/docs"
     }
   },
   {
     "App": "Attio",
     "Category": "CRM",
-    "Website": "attio.com",
+    "Website": "https://attio.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "attio.com/docs"
+      "Evidence": "https://attio.com/docs"
     }
   },
   {
     "App": "Twenty",
     "Category": "CRM",
-    "Website": "twenty.com",
+    "Website": "https://twenty.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "twenty.com/docs"
+      "Evidence": "https://twenty.com/docs"
     }
   },
   {
     "App": "Podio",
     "Category": "CRM",
-    "Website": "podio.com",
+    "Website": "https://podio.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "podio.com/docs"
+      "Evidence": "https://podio.com/docs"
     }
   },
   {
     "App": "Zoho CRM",
     "Category": "CRM",
-    "Website": "zoho.com/crm",
+    "Website": "https://zoho.com/crm",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "zoho.com/crm/docs"
+      "Evidence": "https://zoho.com/crm/docs"
     }
   },
   {
     "App": "Close",
     "Category": "CRM",
-    "Website": "close.com",
+    "Website": "https://close.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "close.com/docs"
+      "Evidence": "https://close.com/docs"
     }
   },
   {
     "App": "Copper",
     "Category": "CRM",
-    "Website": "copper.com",
+    "Website": "https://copper.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "copper.com/docs"
+      "Evidence": "https://copper.com/docs"
     }
   },
   {
     "App": "DealCloud",
     "Category": "CRM",
-    "Website": "api.docs.dealcloud.com",
+    "Website": "https://api.docs.dealcloud.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "api.docs.dealcloud.com/docs"
+      "Evidence": "https://api.docs.dealcloud.com/docs"
     }
   },
   {
     "App": "Zendesk",
     "Category": "Support",
-    "Website": "zendesk.com",
+    "Website": "https://zendesk.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "zendesk.com/docs"
+      "Evidence": "https://zendesk.com/docs"
     }
   },
   {
     "App": "Intercom",
     "Category": "Support",
-    "Website": "intercom.com",
+    "Website": "https://intercom.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "intercom.com/docs"
+      "Evidence": "https://intercom.com/docs"
     }
   },
   {
     "App": "Freshdesk",
     "Category": "Support",
-    "Website": "freshdesk.com",
+    "Website": "https://freshdesk.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "freshdesk.com/docs"
+      "Evidence": "https://freshdesk.com/docs"
     }
   },
   {
     "App": "Front",
     "Category": "Support",
-    "Website": "front.com",
+    "Website": "https://front.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "front.com/docs"
+      "Evidence": "https://front.com/docs"
     }
   },
   {
     "App": "Pylon",
     "Category": "Support",
-    "Website": "usepylon.com",
+    "Website": "https://usepylon.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "usepylon.com/docs"
+      "Evidence": "https://usepylon.com/docs"
     }
   },
   {
     "App": "LiveAgent",
     "Category": "Support",
-    "Website": "liveagent.com",
+    "Website": "https://liveagent.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "liveagent.com/docs"
+      "Evidence": "https://liveagent.com/docs"
     }
   },
   {
     "App": "Plain",
     "Category": "Support",
-    "Website": "plain.com",
+    "Website": "https://plain.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "plain.com/docs"
+      "Evidence": "https://plain.com/docs"
     }
   },
   {
     "App": "Help Scout",
     "Category": "Support",
-    "Website": "helpscout.com",
+    "Website": "https://helpscout.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "helpscout.com/docs"
+      "Evidence": "https://helpscout.com/docs"
     }
   },
   {
     "App": "Gorgias",
     "Category": "Support",
-    "Website": "gorgias.com",
+    "Website": "https://gorgias.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "gorgias.com/docs"
+      "Evidence": "https://gorgias.com/docs"
     }
   },
   {
     "App": "Gladly",
     "Category": "Support",
-    "Website": "gladly.com",
+    "Website": "https://gladly.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "gladly.com/docs"
+      "Evidence": "https://gladly.com/docs"
     }
   },
   {
     "App": "Slack",
     "Category": "Communications",
-    "Website": "slack.com",
+    "Website": "https://slack.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "slack.com/docs"
+      "Evidence": "https://slack.com/docs"
     }
   },
   {
     "App": "Twilio",
     "Category": "Communications",
-    "Website": "twilio.com",
+    "Website": "https://twilio.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "twilio.com/docs"
+      "Evidence": "https://twilio.com/docs"
     }
   },
   {
     "App": "Zoho Cliq",
     "Category": "Communications",
-    "Website": "zoho.com/cliq",
+    "Website": "https://zoho.com/cliq",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "zoho.com/cliq/docs"
+      "Evidence": "https://zoho.com/cliq/docs"
     }
   },
   {
     "App": "Lark",
     "Category": "Communications",
-    "Website": "open.larksuite.com",
+    "Website": "https://open.larksuite.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "open.larksuite.com/docs"
+      "Evidence": "https://open.larksuite.com/docs"
     }
   },
   {
     "App": "Pumble",
     "Category": "Communications",
-    "Website": "pumble.com",
+    "Website": "https://pumble.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "pumble.com/docs"
+      "Evidence": "https://pumble.com/docs"
     }
   },
   {
     "App": "Discord",
     "Category": "Communications",
-    "Website": "discord.com",
+    "Website": "https://discord.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "discord.com/docs"
+      "Evidence": "https://discord.com/docs"
     }
   },
   {
     "App": "Telegram",
     "Category": "Communications",
-    "Website": "core.telegram.org",
+    "Website": "https://core.telegram.org",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "core.telegram.org/docs"
+      "Evidence": "https://core.telegram.org/docs"
     }
   },
   {
     "App": "WhatsApp Business",
     "Category": "Communications",
-    "Website": "developers.facebook.com/docs/whatsapp",
+    "Website": "https://developers.facebook.com/docs/whatsapp",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.facebook.com/docs/whatsapp/docs"
+      "Evidence": "https://developers.facebook.com/docs/whatsapp/docs"
     }
   },
   {
     "App": "Aircall",
     "Category": "Communications",
-    "Website": "aircall.io",
+    "Website": "https://aircall.io",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "aircall.io/docs"
+      "Evidence": "https://aircall.io/docs"
     }
   },
   {
     "App": "Vonage",
     "Category": "Communications",
-    "Website": "developer.vonage.com",
+    "Website": "https://developer.vonage.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.vonage.com/docs"
+      "Evidence": "https://developer.vonage.com/docs"
     }
   },
   {
     "App": "Google Ads",
     "Category": "Marketing",
-    "Website": "developers.google.com/google-ads",
+    "Website": "https://developers.google.com/google-ads",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.google.com/google-ads/docs"
+      "Evidence": "https://developers.google.com/google-ads/docs"
     }
   },
   {
     "App": "Meta Ads",
     "Category": "Marketing",
-    "Website": "developers.facebook.com/docs/marketing-apis",
+    "Website": "https://developers.facebook.com/docs/marketing-apis",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.facebook.com/docs/marketing-apis/docs"
+      "Evidence": "https://developers.facebook.com/docs/marketing-apis/docs"
     }
   },
   {
     "App": "LinkedIn Ads",
     "Category": "Marketing",
-    "Website": "learn.microsoft.com/linkedin/marketing",
+    "Website": "https://learn.microsoft.com/linkedin/marketing",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "learn.microsoft.com/linkedin/marketing/docs"
+      "Evidence": "https://learn.microsoft.com/linkedin/marketing/docs"
     }
   },
   {
     "App": "GoHighLevel",
     "Category": "Marketing",
-    "Website": "highlevel.stoplight.io",
+    "Website": "https://highlevel.stoplight.io",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "highlevel.stoplight.io/docs"
+      "Evidence": "https://highlevel.stoplight.io/docs"
     }
   },
   {
     "App": "Mailchimp",
     "Category": "Marketing",
-    "Website": "mailchimp.com/developer",
+    "Website": "https://mailchimp.com/developer",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "mailchimp.com/developer/docs"
+      "Evidence": "https://mailchimp.com/developer/docs"
     }
   },
   {
     "App": "Klaviyo",
     "Category": "Marketing",
-    "Website": "developers.klaviyo.com",
+    "Website": "https://developers.klaviyo.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.klaviyo.com/docs"
+      "Evidence": "https://developers.klaviyo.com/docs"
     }
   },
   {
     "App": "systeme.io",
     "Category": "Marketing",
-    "Website": "systeme.io",
+    "Website": "https://systeme.io",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "systeme.io/docs"
+      "Evidence": "https://systeme.io/docs"
     }
   },
   {
     "App": "Pinterest",
     "Category": "Marketing",
-    "Website": "developers.pinterest.com",
+    "Website": "https://developers.pinterest.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.pinterest.com/docs"
+      "Evidence": "https://developers.pinterest.com/docs"
     }
   },
   {
     "App": "Threads",
     "Category": "Marketing",
-    "Website": "developers.facebook.com/docs/threads",
+    "Website": "https://developers.facebook.com/docs/threads",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.facebook.com/docs/threads/docs"
+      "Evidence": "https://developers.facebook.com/docs/threads/docs"
     }
   },
   {
     "App": "SendGrid",
     "Category": "Marketing",
-    "Website": "sendgrid.com",
+    "Website": "https://sendgrid.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "sendgrid.com/docs"
+      "Evidence": "https://sendgrid.com/docs"
     }
   },
   {
     "App": "Shopify",
     "Category": "Ecommerce",
-    "Website": "shopify.dev",
+    "Website": "https://shopify.dev",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "shopify.dev/docs"
+      "Evidence": "https://shopify.dev/docs"
     }
   },
   {
     "App": "WooCommerce",
     "Category": "Ecommerce",
-    "Website": "woocommerce.com/document/woocommerce-rest-api",
+    "Website": "https://woocommerce.com/document/woocommerce-rest-api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "woocommerce.com/document/woocommerce-rest-api/docs"
+      "Evidence": "https://woocommerce.com/document/woocommerce-rest-api/docs"
     }
   },
   {
     "App": "BigCommerce",
     "Category": "Ecommerce",
-    "Website": "developer.bigcommerce.com",
+    "Website": "https://developer.bigcommerce.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.bigcommerce.com/docs"
+      "Evidence": "https://developer.bigcommerce.com/docs"
     }
   },
   {
     "App": "Salesforce Commerce Cloud",
     "Category": "Ecommerce",
-    "Website": "developer.salesforce.com/docs/commerce",
+    "Website": "https://developer.salesforce.com/docs/commerce",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.salesforce.com/docs/commerce/docs"
+      "Evidence": "https://developer.salesforce.com/docs/commerce/docs"
     }
   },
   {
     "App": "Magento",
     "Category": "Ecommerce",
-    "Website": "developer.adobe.com/commerce",
+    "Website": "https://developer.adobe.com/commerce",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.adobe.com/commerce/docs"
+      "Evidence": "https://developer.adobe.com/commerce/docs"
     }
   },
   {
     "App": "Squarespace",
     "Category": "Ecommerce",
-    "Website": "developers.squarespace.com",
+    "Website": "https://developers.squarespace.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.squarespace.com/docs"
+      "Evidence": "https://developers.squarespace.com/docs"
     }
   },
   {
     "App": "Ecwid",
     "Category": "Ecommerce",
-    "Website": "api-docs.ecwid.com",
+    "Website": "https://api-docs.ecwid.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "api-docs.ecwid.com/docs"
+      "Evidence": "https://api-docs.ecwid.com/docs"
     }
   },
   {
     "App": "Gumroad",
     "Category": "Ecommerce",
-    "Website": "gumroad.com/api",
+    "Website": "https://gumroad.com/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "gumroad.com/api/docs"
+      "Evidence": "https://gumroad.com/api/docs"
     }
   },
   {
     "App": "Amazon Selling Partner",
     "Category": "Ecommerce",
-    "Website": "developer-docs.amazon.com/sp-api",
+    "Website": "https://developer-docs.amazon.com/sp-api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer-docs.amazon.com/sp-api/docs"
+      "Evidence": "https://developer-docs.amazon.com/sp-api/docs"
     }
   },
   {
     "App": "fanbasis",
     "Category": "Ecommerce",
-    "Website": "fanbasis.com",
+    "Website": "https://fanbasis.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "fanbasis.com/docs"
+      "Evidence": "https://fanbasis.com/docs"
     }
   },
   {
     "App": "DataForSEO",
     "Category": "Data",
-    "Website": "docs.dataforseo.com",
+    "Website": "https://docs.dataforseo.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.dataforseo.com/docs"
+      "Evidence": "https://docs.dataforseo.com/docs"
     }
   },
   {
     "App": "SE Ranking",
     "Category": "Data",
-    "Website": "seranking.com/api",
+    "Website": "https://seranking.com/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "seranking.com/api/docs"
+      "Evidence": "https://seranking.com/api/docs"
     }
   },
   {
     "App": "Ahrefs",
     "Category": "Data",
-    "Website": "ahrefs.com/api",
+    "Website": "https://ahrefs.com/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "ahrefs.com/api/docs"
+      "Evidence": "https://ahrefs.com/api/docs"
     }
   },
   {
     "App": "MrScraper",
     "Category": "Data",
-    "Website": "docs.mrscraper.com",
+    "Website": "https://docs.mrscraper.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.mrscraper.com/docs"
+      "Evidence": "https://docs.mrscraper.com/docs"
     }
   },
   {
     "App": "Apify",
     "Category": "Data",
-    "Website": "docs.apify.com",
+    "Website": "https://docs.apify.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.apify.com/docs"
+      "Evidence": "https://docs.apify.com/docs"
     }
   },
   {
     "App": "Firecrawl",
     "Category": "Data",
-    "Website": "firecrawl.dev",
+    "Website": "https://firecrawl.dev",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "firecrawl.dev/docs"
+      "Evidence": "https://firecrawl.dev/docs"
     }
   },
   {
     "App": "Bright Data",
     "Category": "Data",
-    "Website": "brightdata.com",
+    "Website": "https://brightdata.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "brightdata.com/docs"
+      "Evidence": "https://brightdata.com/docs"
     }
   },
   {
     "App": "Sherlock",
     "Category": "Data",
-    "Website": "github.com/sherlock-project/sherlock",
+    "Website": "https://github.com/sherlock-project/sherlock",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "github.com/sherlock-project/sherlock/docs"
+      "Evidence": "https://github.com/sherlock-project/sherlock/docs"
     }
   },
   {
     "App": "Waterfall.io",
     "Category": "Data",
-    "Website": "waterfall.io",
+    "Website": "https://waterfall.io",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "waterfall.io/docs"
+      "Evidence": "https://waterfall.io/docs"
     }
   },
   {
     "App": "Clay",
     "Category": "Data",
-    "Website": "clay.com",
+    "Website": "https://clay.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "clay.com/docs"
+      "Evidence": "https://clay.com/docs"
     }
   },
   {
     "App": "GitHub",
     "Category": "Developer",
-    "Website": "docs.github.com/rest",
+    "Website": "https://docs.github.com/rest",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.github.com/rest/docs"
+      "Evidence": "https://docs.github.com/rest/docs"
     }
   },
   {
     "App": "Vercel",
     "Category": "Developer",
-    "Website": "vercel.com/docs/rest-api",
+    "Website": "https://vercel.com/docs/rest-api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "vercel.com/docs/rest-api/docs"
+      "Evidence": "https://vercel.com/docs/rest-api/docs"
     }
   },
   {
     "App": "Netlify",
     "Category": "Developer",
-    "Website": "docs.netlify.com/api",
+    "Website": "https://docs.netlify.com/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.netlify.com/api/docs"
+      "Evidence": "https://docs.netlify.com/api/docs"
     }
   },
   {
     "App": "Cloudflare",
     "Category": "Developer",
-    "Website": "developers.cloudflare.com/api",
+    "Website": "https://developers.cloudflare.com/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.cloudflare.com/api/docs"
+      "Evidence": "https://developers.cloudflare.com/api/docs"
     }
   },
   {
     "App": "Supabase",
     "Category": "Developer",
-    "Website": "supabase.com/docs",
+    "Website": "https://supabase.com/docs",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "supabase.com/docs/docs"
+      "Evidence": "https://supabase.com/docs/docs"
     }
   },
   {
     "App": "Neo4j",
     "Category": "Developer",
-    "Website": "neo4j.com/docs/api",
+    "Website": "https://neo4j.com/docs/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "neo4j.com/docs/api/docs"
+      "Evidence": "https://neo4j.com/docs/api/docs"
     }
   },
   {
     "App": "Snowflake",
     "Category": "Developer",
-    "Website": "docs.snowflake.com",
+    "Website": "https://docs.snowflake.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.snowflake.com/docs"
+      "Evidence": "https://docs.snowflake.com/docs"
     }
   },
   {
     "App": "MongoDB Atlas",
     "Category": "Developer",
-    "Website": "mongodb.com/docs/atlas/api",
+    "Website": "https://mongodb.com/docs/atlas/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "mongodb.com/docs/atlas/api/docs"
+      "Evidence": "https://mongodb.com/docs/atlas/api/docs"
     }
   },
   {
     "App": "Datadog",
     "Category": "Developer",
-    "Website": "docs.datadoghq.com/api",
+    "Website": "https://docs.datadoghq.com/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.datadoghq.com/api/docs"
+      "Evidence": "https://docs.datadoghq.com/api/docs"
     }
   },
   {
     "App": "Sentry",
     "Category": "Developer",
-    "Website": "docs.sentry.io/api",
+    "Website": "https://docs.sentry.io/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.sentry.io/api/docs"
+      "Evidence": "https://docs.sentry.io/api/docs"
     }
   },
   {
     "App": "Notion",
     "Category": "Productivity",
-    "Website": "developers.notion.com",
+    "Website": "https://developers.notion.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.notion.com/docs"
+      "Evidence": "https://developers.notion.com/docs"
     }
   },
   {
     "App": "Airtable",
     "Category": "Productivity",
-    "Website": "airtable.com/developers",
+    "Website": "https://airtable.com/developers",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "airtable.com/developers/docs"
+      "Evidence": "https://airtable.com/developers/docs"
     }
   },
   {
     "App": "Linear",
     "Category": "Productivity",
-    "Website": "developers.linear.app",
+    "Website": "https://developers.linear.app",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.linear.app/docs"
+      "Evidence": "https://developers.linear.app/docs"
     }
   },
   {
     "App": "Jira",
     "Category": "Productivity",
-    "Website": "developer.atlassian.com",
+    "Website": "https://developer.atlassian.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.atlassian.com/docs"
+      "Evidence": "https://developer.atlassian.com/docs"
     }
   },
   {
     "App": "Asana",
     "Category": "Productivity",
-    "Website": "developers.asana.com",
+    "Website": "https://developers.asana.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developers.asana.com/docs"
+      "Evidence": "https://developers.asana.com/docs"
     }
   },
   {
     "App": "Monday.com",
     "Category": "Productivity",
-    "Website": "developer.monday.com",
+    "Website": "https://developer.monday.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.monday.com/docs"
+      "Evidence": "https://developer.monday.com/docs"
     }
   },
   {
     "App": "ClickUp",
     "Category": "Productivity",
-    "Website": "clickup.com/api",
+    "Website": "https://clickup.com/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "clickup.com/api/docs"
+      "Evidence": "https://clickup.com/api/docs"
     }
   },
   {
     "App": "Coda",
     "Category": "Productivity",
-    "Website": "coda.io/developers",
+    "Website": "https://coda.io/developers",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "coda.io/developers/docs"
+      "Evidence": "https://coda.io/developers/docs"
     }
   },
   {
     "App": "Smartsheet",
     "Category": "Productivity",
-    "Website": "smartsheet.com/developers",
+    "Website": "https://smartsheet.com/developers",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "smartsheet.com/developers/docs"
+      "Evidence": "https://smartsheet.com/developers/docs"
     }
   },
   {
     "App": "Harvest",
     "Category": "Productivity",
-    "Website": "help.getharvest.com/api-v2",
+    "Website": "https://help.getharvest.com/api-v2",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "help.getharvest.com/api-v2/docs"
+      "Evidence": "https://help.getharvest.com/api-v2/docs"
     }
   },
   {
     "App": "Stripe",
     "Category": "Finance",
-    "Website": "stripe.com/docs/api",
+    "Website": "https://stripe.com/docs/api",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "stripe.com/docs/api/docs"
+      "Evidence": "https://stripe.com/docs/api/docs"
     }
   },
   {
     "App": "Plaid",
     "Category": "Finance",
-    "Website": "plaid.com/docs",
+    "Website": "https://plaid.com/docs",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "plaid.com/docs/docs"
+      "Evidence": "https://plaid.com/docs/docs"
     }
   },
   {
     "App": "Binance",
     "Category": "Finance",
-    "Website": "binance-docs.github.io",
+    "Website": "https://binance-docs.github.io",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "binance-docs.github.io/docs"
+      "Evidence": "https://binance-docs.github.io/docs"
     }
   },
   {
     "App": "Paygent Connect",
     "Category": "Finance",
-    "Website": "paygent.com",
+    "Website": "https://paygent.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "paygent.com/docs"
+      "Evidence": "https://paygent.com/docs"
     }
   },
   {
     "App": "iPayX",
     "Category": "Finance",
-    "Website": "ipayx.ai/docs",
+    "Website": "https://ipayx.ai/docs",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "ipayx.ai/docs/docs"
+      "Evidence": "https://ipayx.ai/docs/docs"
     }
   },
   {
     "App": "QuickBooks",
     "Category": "Finance",
-    "Website": "developer.intuit.com",
+    "Website": "https://developer.intuit.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.intuit.com/docs"
+      "Evidence": "https://developer.intuit.com/docs"
     }
   },
   {
     "App": "Xero",
     "Category": "Finance",
-    "Website": "developer.xero.com",
+    "Website": "https://developer.xero.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.xero.com/docs"
+      "Evidence": "https://developer.xero.com/docs"
     }
   },
   {
     "App": "Brex",
     "Category": "Finance",
-    "Website": "developer.brex.com",
+    "Website": "https://developer.brex.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "developer.brex.com/docs"
+      "Evidence": "https://developer.brex.com/docs"
     }
   },
   {
     "App": "Ramp",
     "Category": "Finance",
-    "Website": "docs.ramp.com",
+    "Website": "https://docs.ramp.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.ramp.com/docs"
+      "Evidence": "https://docs.ramp.com/docs"
     }
   },
   {
     "App": "PitchBook",
     "Category": "Finance",
-    "Website": "pitchbook.com",
+    "Website": "https://pitchbook.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "pitchbook.com/docs"
+      "Evidence": "https://pitchbook.com/docs"
     }
   },
   {
     "App": "NotebookLM",
     "Category": "AI",
-    "Website": "cloud.google.com/gemini",
+    "Website": "https://cloud.google.com/gemini",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "cloud.google.com/gemini/docs"
+      "Evidence": "https://cloud.google.com/gemini/docs"
     }
   },
   {
     "App": "Otter AI",
     "Category": "AI",
-    "Website": "help.otter.ai",
+    "Website": "https://help.otter.ai",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "help.otter.ai/docs"
+      "Evidence": "https://help.otter.ai/docs"
     }
   },
   {
     "App": "Fathom",
     "Category": "AI",
-    "Website": "fathom.video",
+    "Website": "https://fathom.video",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "fathom.video/docs"
+      "Evidence": "https://fathom.video/docs"
     }
   },
   {
     "App": "Consensus",
     "Category": "AI",
-    "Website": "consensus.app",
+    "Website": "https://consensus.app",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "consensus.app/docs"
+      "Evidence": "https://consensus.app/docs"
     }
   },
   {
     "App": "Reducto",
     "Category": "AI",
-    "Website": "reducto.ai",
+    "Website": "https://reducto.ai",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "reducto.ai/docs"
+      "Evidence": "https://reducto.ai/docs"
     }
   },
   {
     "App": "Devin",
     "Category": "AI",
-    "Website": "docs.devin.ai",
+    "Website": "https://docs.devin.ai",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "docs.devin.ai/docs"
+      "Evidence": "https://docs.devin.ai/docs"
     }
   },
   {
     "App": "higgsfield",
     "Category": "AI",
-    "Website": "higgsfield.ai/cli",
+    "Website": "https://higgsfield.ai/cli",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "higgsfield.ai/cli/docs"
+      "Evidence": "https://higgsfield.ai/cli/docs"
     }
   },
   {
     "App": "Mermaid CLI",
     "Category": "AI",
-    "Website": "github.com/mermaid-js/mermaid-cli",
+    "Website": "https://github.com/mermaid-js/mermaid-cli",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "github.com/mermaid-js/mermaid-cli/docs"
+      "Evidence": "https://github.com/mermaid-js/mermaid-cli/docs"
     }
   },
   {
     "App": "YouTube Transcript",
     "Category": "AI",
-    "Website": "transcriptapi.com",
+    "Website": "https://transcriptapi.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "transcriptapi.com/docs"
+      "Evidence": "https://transcriptapi.com/docs"
     }
   },
   {
     "App": "Grain",
     "Category": "AI",
-    "Website": "grain.com",
+    "Website": "https://grain.com",
     "Result": {
       "Auth method": "API Key",
       "Self-serve vs gated": "Self-serve",
       "API surface": "Basic endpoints",
       "Buildability verdict": "Feasible",
-      "Evidence": "grain.com/docs"
+      "Evidence": "https://grain.com/docs"
     }
   }
 ]
